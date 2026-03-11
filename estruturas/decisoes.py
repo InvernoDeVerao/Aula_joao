@@ -59,5 +59,5 @@ while True:
      else:
           print('fechou!')
           break
-#alterei na escola.
 
+#alterei aqui no VS
