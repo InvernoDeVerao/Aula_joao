@@ -59,3 +59,5 @@ while True:
      else:
           print('fechou!')
           break
+#alterei na escola.
+
