@@ -60,4 +60,4 @@ while True:
           print('fechou!')
           break
 
-#alterei aqui no VS
+#alterei aqui no VSCode, só pra testar o commit.
